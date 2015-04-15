@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="run" name="Zane Academy ANT Proj2 - compile and run JAVA class">
+   <target name="run" depends="compile">
+	<echo>executing run target...</echo>
+   </target>
+   <target name="compile">
+	<echo>executing compile target...</echo>
+	<javac includeantruntime="false" srcdir="./src" destdir="staging" />
+   </target>
+</project>

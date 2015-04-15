@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="main target" name="Zane Academy ANT Proj1">
+   <target name="main target">
+	<echo>executing main target...</echo>
+   </target>
+   <target name="target two">
+	<echo>executing target two...</echo>
+   </target>
+</project>

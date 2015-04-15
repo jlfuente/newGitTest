@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="warTarget" basedir=".">
+	<property name="jboss" value="path/to/appservers/jboss-as-7.1.1.Final"/>
+	<property name="jboss.deployment" value="${jboss}/standalone/deployments"/>
+	<property name="jboss.bin" value="${jboss}/bin"/>
+	<property name="base" value="."/>
+	<property name="source" value="${base}/src"/>
+	<target name="warTarget">
+		<war warfile="antprj4.war" needxmlfile="false">
+			<fileset dir="${source}/webFiles"/>
+		</war>
+		<antcall target="deployTarget"/>
+	</target>
+	<target name="deployTarget">
+		<copy file="${base}/antprj4.war" todir="${jboss.deployment}"/>
+	</target>
+	<target name="startJBoss">
+		<exec executable="${jboss.bin}/standalone.bat""/>
+	</target>
+</project>
