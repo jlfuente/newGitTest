@@ -1,0 +1,73 @@
+###########################################################
+# ACRONYM 	# DESCRIPTION                             #
+###########################################################
+# AAA		# ATR Asset Advisor                       #
+# ACN		# Accenture                               #
+# ADA		# Accenture Delivery Architectures        #
+# ADM		# Accenture Delivery Methods              #
+# ADS		# Accenture Delivery Suite                #
+# ADT		# Accenture Delivery Tools                #
+# ALM		# Application LifeCycle Management        #
+# ASOC		# Accenture Security Operations Center    #
+# ATR		# Accenture Test Repository               #
+# AX		# Microsoft Dynamics                      #
+# BA		# Business Analysis                       #
+# BABOK		#                                         #
+# BCM		# Business Continuity Management          #
+# BCN		# Business Continuity                     #
+# BI		# Business Intelligence                   #
+# BIA		# Business Impact Analysis                #
+# BPO		# Business Process Outsourcing            #
+# BRP		# Business Recovery Plan                  #
+# CB		# Change Behavior                         #
+# CDP		# Career Development Plan                 #
+# CDP		# Customer Data Protection                #
+# CMT		# Communication and Media Technology      #
+# COTS		# Transmission of Cost Service            #
+# DA		# Distributed Agile                       #
+# DART		# Disaster Assestment Response Team       #
+# DDM		# Device Docking Module                   #
+# DevOps	# Development and Operations              #
+# DG		# Distribution Group                      #
+# DSL		# Domain Specific Language                #
+# EALA		# Europe, Africa, Latin America           #
+# EDW		# Enterprise Data Warehouse               #
+# EMS		# Environmental Management System         #
+# ESPP		# Employee Share Purchase Plan            #
+# ETC		# Estimate to Complete                    #
+# ETL		# Extract, Transform, Load                #
+# FS		# Financial Services                      #
+# GAP		# Global Asset Protection                 #
+# GCC		# Global Collect Call                     #
+# GCP		# Global Career Program                   #
+# H&PS		# Health and Public Service               #
+# IDC		# India Design Centre                     #
+# INFA		# Informatica (Power Center)(ETL)         #
+# ISU		# Infrastructure Support Unit             #
+# KX		# Knowledge Exchange                      #
+# LMT		# Local Management Team                   #
+# MCE		# Mobile Cloud Express                    #
+# MCM		# Mobile Cloud Manager                    #
+# MDC		# Monterrey Delivery Center               #
+# OCR		# Optical Character Recognition           #
+# OG		# Operating Groups                        #
+# PBI		# Product Backlog Item                    #
+# PDCA		# Plan, Do, Check, Act                    #
+# PMP		# Performance Management Process          #
+# POC		# Proof of Concept                        #
+# PPSM		# Program, Project and Service Management #
+# PRD		# Products                                #
+# RA		# Risk Assestment                         #
+# RES		# Resources                               #
+# ROSA		# Remote Offshore Simulate Automate       #
+# RTC		# Rational                                #
+# SaaS		# Software as a Service                   #
+# SAFe		# Scaled Agile Framework                  #
+# SD		# Strategy Document                       #
+# SE		# Solutions Engineer                      #
+# SIR		# Software Incident Report                #
+# SLA		# Service Level Agreement                 #
+# SME		# Subject Matter Expert                   #
+# TFS		# Talent Fullfillment Specialist          #
+# WIPS		# Work in Progress                        #
+###########################################################

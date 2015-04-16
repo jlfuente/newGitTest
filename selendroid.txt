@@ -1,0 +1,12 @@
+selendroid ebay
+https://www.slideshare.net/fullscreen/DominikDary/mobile-webdriver-selendroid/1
+
+selendroid Vikas
+https://www.slideshare.net/fullscreen/vikasthange1/android-automation-testing-with-selendroid/1
+
+selendroid iosdriver
+https://www.slideshare.net/fullscreen/michael_palotas/mobile-automation-with-selenium-selendroid-ios-driver-35335880/7
+
+Automation Framework
+https://www.youtube.com/watch?v=DO8KVe00kcU
+https://github.com/jsonmez/BATDemo
