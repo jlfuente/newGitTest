@@ -30,6 +30,7 @@
 # DevOps	# Development and Operations              #
 # DG		# Distribution Group                      #
 # DSL		# Domain Specific Language                #
+# DUT		# Device Under Test                       #
 # EALA		# Europe, Africa, Latin America           #
 # EDW		# Enterprise Data Warehouse               #
 # EMS		# Environmental Management System         #
