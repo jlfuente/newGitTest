@@ -1,1 +1,1 @@
-# newGitTest
+The purpose of this repository is to collect some useful files (at least for me).
