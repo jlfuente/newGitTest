@@ -2,12 +2,14 @@
 # ACRONYM 	# DESCRIPTION                             #
 ###########################################################
 # AAA		# ATR Asset Advisor                       #
+# ACL		# Access Control Log                      #
 # ACN		# Accenture                               #
 # ADA		# Accenture Delivery Architectures        #
 # ADM		# Accenture Delivery Methods              #
 # ADS		# Accenture Delivery Suite                #
 # ADT		# Accenture Delivery Tools                #
 # ALM		# Application LifeCycle Management        #
+# ARMS		# Accenture Records management System     #
 # ASOC		# Accenture Security Operations Center    #
 # ATR		# Accenture Test Repository               #
 # AX		# Microsoft Dynamics                      #
@@ -20,8 +22,11 @@
 # BPO		# Business Process Outsourcing            #
 # BRP		# Business Recovery Plan                  #
 # CB		# Change Behavior                         #
+# CCP		# Change Control Process                  #
+# CDI		# Client Data Inventory                   #
 # CDP		# Career Development Plan                 #
-# CDP		# Customer Data Protection                #
+# CDP		# Customer/Client Data Protection         #
+# CI		# Confidential Information                #
 # CMT		# Communication and Media Technology      #
 # COTS		# Transmission of Cost Service            #
 # DA		# Distributed Agile                       #
@@ -29,6 +34,9 @@
 # DDM		# Device Docking Module                   #
 # DevOps	# Development and Operations              #
 # DG		# Distribution Group                      #
+# DPC		# Data Protection Confirmation            #
+# DPE		#                                         #
+# DPS		#                                         #
 # DSL		# Domain Specific Language                #
 # DUT		# Device Under Test                       #
 # EALA		# Europe, Africa, Latin America           #
@@ -44,16 +52,24 @@
 # H&PS		# Health and Public Service               #
 # IDC		# India Design Centre                     #
 # INFA		# Informatica (Power Center)(ETL)         #
+# IP		# Intellectual Property                   #
+# ISE		# Information Security Executive          #
 # ISU		# Infrastructure Support Unit             #
+# ISL		# Information Security Lead               #
 # KX		# Knowledge Exchange                      #
 # LMT		# Local Management Team                   #
 # MCE		# Mobile Cloud Express                    #
 # MCM		# Mobile Cloud Manager                    #
 # MDC		# Monterrey Delivery Center               #
+# NDA		# Non Disclosure Agreement                #
+# OBT		# Online Booking Tool                     #
 # OCR		# Optical Character Recognition           #
 # OG		# Operating Groups                        #
+# OOT		# Out of Town                             #
 # PBI		# Product Backlog Item                    #
 # PDCA		# Plan, Do, Check, Act                    #
+# PII		# Personal Identifiable Information       #
+# PMO		#                                         #
 # PMP		# Performance Management Process          #
 # POC		# Proof of Concept                        #
 # PPSM		# Program, Project and Service Management #
@@ -69,6 +85,8 @@
 # SIR		# Software Incident Report                #
 # SLA		# Service Level Agreement                 #
 # SME		# Subject Matter Expert                   #
+# SOW		# Statement of Work                       #
+# SubC		# Subcontractor                           #
 # TFS		# Talent Fullfillment Specialist          #
 # WIPS		# Work in Progress                        #
 ###########################################################
